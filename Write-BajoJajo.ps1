@@ -1,3 +1,7 @@
+<#
+.SYNOPSIS
+Echo "bajo jajo" to terminal output.
+#>
 function Write-BajoJajo {
 	param (
 		[Parameter(Position=0)]
