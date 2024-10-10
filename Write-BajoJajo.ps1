@@ -1,6 +1,9 @@
 <#
 .SYNOPSIS
 Echo "bajo jajo" to terminal output.
+
+.PARAMETER HowManyTimesThisBajoJajoShouldBeWritten
+Specify how many "bajo jajo" lines you want to have written.
 #>
 function Write-BajoJajo {
 	param (
