@@ -1,3 +1,7 @@
+<#
+.SYNOPSIS
+Read user input and check whether the input is "bajo jajo" (case sensitive)
+#>
 function Read-BajoJajo {
 	[string]$UserInput = Read-Host "Put your input"
 	
