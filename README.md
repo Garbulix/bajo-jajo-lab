@@ -1,6 +1,8 @@
 # bajo-jajo-lab
 This is a dummy Git repository with useless scripts and files to show my current Git skills.
 
+![bajo-jajo-logo](./jajo-img.jpg)
+
 ## What's inside
 In this repository you can find scrits such as:
 
